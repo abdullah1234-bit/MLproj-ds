@@ -1,0 +1,5 @@
+[ 2026-03-09 23:18:53,609 ] 35 dotenv.main - WARNING - python-dotenv could not parse statement starting at line 5
+[ 2026-03-09 23:18:53,609 ] 35 dotenv.main - WARNING - python-dotenv could not parse statement starting at line 7
+[ 2026-03-09 23:18:53,609 ] 35 dotenv.main - WARNING - python-dotenv could not parse statement starting at line 8
+[ 2026-03-09 23:18:53,609 ] 35 dotenv.main - WARNING - python-dotenv could not parse statement starting at line 10
+[ 2026-03-09 23:18:53,609 ] 21 root - INFO - Reading SQL database started
